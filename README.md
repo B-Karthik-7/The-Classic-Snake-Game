@@ -10,5 +10,4 @@ Take a trip down memory lane with our Classic Snake Game—an old-school favorit
 
 
 ## Deployment
-https://bkarthik7.github.io/The-Classic-Snake-Game/
-
+https://b-karthik-7.github.io/The-Classic-Snake-Game/
